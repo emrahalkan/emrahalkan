@@ -1,5 +1,8 @@
-Hi 👋 My name is Emrah Alkan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Emrah Alkan
 ============================
+<div align="center">
+<a href="https://emrahalkan.com/" target="_blank" rel="noreferrer"><img src="https://emrahalkan.com/emrahalkan.png" width="700" height="400" alt="emrahalkan" /></a>
+</div>
 
 Backend Developer
 -----------------
@@ -10,9 +13,9 @@ Backend Developer
 * 🚀  I'm currently working on [Etiya](http://etiya.com)
 * 🧠  I'm learning Spring Framework
 
-### Skills
 
-<p align="left">
+### Skills
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img alt="" class="cf ku kv" src="https://miro.medium.com/max/252/0*tvceNN80DaQVq2cy.png" width="50" height="36" loading="lazy" role="presentation"></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/fit/c/294/294/1*R6jBaoIrvb49knSiTJ7lgA.png" width="36" height="36" alt="SpringBoot" /></a>
@@ -24,7 +27,7 @@ Backend Developer
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logo@2x.png" width="60" height="36" alt="Git" /></a>
+<a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logo@2x.png" width="60" height="36" alt="Git" /></a>
 
 
   
@@ -33,7 +36,7 @@ Backend Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/emrahalkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/emrh.alkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emrahalkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@emrhalkann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/emrahalkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/emrh.alkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emrahalkan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@emrhalkann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
